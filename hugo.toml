@@ -1,0 +1,4 @@
+relativeURLs = true
+baseURL = 'https://www.regina-go.ru/'
+languageCode = 'ru-RU'
+title = 'Regina-Go'
